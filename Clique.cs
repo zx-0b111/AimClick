@@ -17,6 +17,10 @@ namespace WinFormsApp1
             var mouse = new MouseManipulator();
 
             mouse.DoubleClick();
+            mouse.DoubleClick();
+            mouse.DoubleClick();
+            mouse.DoubleClick();
+            mouse.DoubleClick();
         }
 
         public static async Task Clicar()
