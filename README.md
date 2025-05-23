@@ -23,7 +23,7 @@ AutoClick simples e fácil de mexer, desenvolvido para aumentar a produção e m
 ## Imagem 6
 ![Imagem 6](https://github.com/zx-0b111/AimClick/blob/main/fotos/aimclick7.JPG?raw=true)
 
-Obs: Ao pressionar a tecla configurada como off, automaticamente o programa irá fechar.
+Obs: A tecla configurada como on vai fazer a ativação do programa e troca de texto como visto na imagem 6. Mas se pressionar a tecla configurada como off, automaticamente o programa irá fechar.
 
 ## Autores
 
